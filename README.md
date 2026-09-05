@@ -1,4 +1,4 @@
-# Awesome Rails (Ruby on Rails) [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Rails (Ruby on Rails) [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1114189104.svg)](https://doi.org/10.5281/zenodo.19681706)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -135,10 +135,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Ruby](https://github.com/awesomelistsio/awesome-ruby)
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome SaaS](https://github.com/awesomelistsio/awesome-saas)
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
+- [Awesome Ruby](https://github.com/brandonhimpfen/awesome-ruby)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
 
 ## Contribute
 
